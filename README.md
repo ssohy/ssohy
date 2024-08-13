@@ -1,6 +1,6 @@
 <div align=center>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSOHY's GitHub&fontSize=90&fontAlign=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSOHY\'s&emsp;GitHub&fontSize=90&fontAlign=70" />
   <br>
   <h3>🌵GitHub🌵</h3>
   
