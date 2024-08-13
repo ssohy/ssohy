@@ -4,7 +4,7 @@
   <br>
   <h3>🌵GitHub🌵</h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohy&layout=compact)
+ 
   
   <br>
   <h3>🔥Baekjoon🔥&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🎆SSOHY's GitHub stats🎆</h3>
