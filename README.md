@@ -1,6 +1,8 @@
 <div align=center>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSOHY!&fontSize=90&fontAlign=75" />
+  <div align="center">
+    <img src="https://github.com/ssohy/ssohy/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  </div>
   <br>
   <h3>🌵GitHub🌵</h3>
   
