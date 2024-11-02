@@ -12,6 +12,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshpqpw)](https://solved.ac/jshpqpw/) 
   
   <h3>🎆SSOHY's GitHub stats🎆</h3>
+  
 ![ssohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight) 
   
   <br>
