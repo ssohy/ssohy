@@ -9,7 +9,8 @@
   <br>
   <h3>🔥Baekjoon🔥</h3>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshpqpw)](https://solved.ac/jshpqpw/) 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jshpqpw)](https://solved.ac/jshpqpw/)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jshpqpw&theme=dark)
   
   <br>
   <h3>🎆SSOHY's GitHub stats🎆</h3>
