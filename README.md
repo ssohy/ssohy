@@ -3,10 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSOHY!&fontSize=90&fontAlign=75" />
   <br>
   <h3>🌵GitHub🌵</h3>
+  ﻿
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohy&langs_count=10&layout=compact&theme=dark)](https://github.com/ssohy/ssohy)
   
   ![ssohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight) 
   
-﻿  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohy&langs_count=10&layout=compact&theme=dark)](https://github.com/ssohy/ssohy)
+
   
   <br>
   <h3>🔥Baekjoon🔥</h3>
