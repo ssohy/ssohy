@@ -5,9 +5,9 @@
   <h3>🌵GitHub🌵</h3>
   <br>
   
-/*  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohy&langs_count=10&layout=compact&theme=dark)](https://github.com/ssohy/ssohy)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohy&langs_count=10&layout=compact&theme=dark)](https://github.com/ssohy/ssohy)
   
-   ![ssohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight) */
+   ![ssohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight) -->
   
   <br>
   <h3>🔥Baekjoon🔥</h3>
