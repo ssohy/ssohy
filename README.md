@@ -15,8 +15,8 @@
   <br>
   <h3>📚Organizations📚</h3>
   
-  ## [CHEER Prpject](https://github.com/orgs/ganada-cc/repositories)
-
+  ## [CHEER Project](https://github.com/orgs/ganada-cc/repositories)
+  ## [J00% Project](https://github.com/2024-OpenSourceSoftware/J00)
 
   
   <br>
