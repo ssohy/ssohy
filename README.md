@@ -11,8 +11,10 @@
   
    ![ssohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight) 
   -->
+  
+  <br>
   <h3>📚Organizations📚</h3>
-  [CHEER Prpject] (https://github.com/orgs/ganada-cc/repositories)
+  ### [CHEER Prpject](https://github.com/orgs/ganada-cc/repositories)
 
 
   
