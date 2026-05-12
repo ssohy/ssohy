@@ -2,15 +2,51 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=So%20Hyun&fontSize=70&fontAlign=75" />
 
-  <br>
-  <h3>Tech Stacks</h3>
+<br>
+  <h3>🛠 Tech Stacks</h3>
+  
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   </p>
 
+  <p>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  </p>
+<h3 align="center">🛠 Infrastructure & DevOps Experience</h3>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <strong>Architecture & Pipeline</strong><br/>
+        <img src="https://img.shields.io/badge/MSA-555555?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/CI/CD_Pipeline-F25022?style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Kubernetes Orchestration</strong><br/>
+        <img src="https://img.shields.io/badge/Pod-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Service-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ingress-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Load_Balancing-0052CC?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Stability & Monitoring</strong><br/>
+        <img src="https://img.shields.io/badge/Health_Checks-4CAF50?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Auto--recovery-FF9800?style=flat-square"/>
+        <img src="https://img.shields.io/badge/External_Routing-795548?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
   <h3>🏆 Projects</h3>
   <table align="center">
@@ -34,22 +70,15 @@
     </tr>
   </table>
 
-  
-  <br>
+ <br>
   <h3>🔥 Solving Problems</h3>
   <p>
-    <!-- Solved.ac는 이 배지가 가장 깔끔하고 안정적입니다 -->
     <a href="https://solved.ac/jshpqpw">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jshpqpw" />
     </a>
-  </p>
-
- <br>
-  <h3>📊 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ssohy&show_icons=true&theme=tokyonight&hide_border=true" />
-    <br/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssohy&layout=compact&theme=tokyonight&hide_border=true" />
+    <a href="https://programmers.co.kr/app/users/library">
+      <img src="https://img.shields.io/badge/Programmers-003866?style=flat-square&logo=programmers&logoColor=white"/>
+    </a>
   </p>
 
 </div>
