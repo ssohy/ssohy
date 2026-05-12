@@ -2,51 +2,66 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=So%20Hyun&fontSize=70&fontAlign=75" />
 
-<br>
-  <h3>🛠 Tech Stacks</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  </p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td valign="top" width="450" style="border: none;">
+      <h3 align="center">🛠 Tech Stacks</h3>
+      <table align="center" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>Language & Framework</strong><br/>
+            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>Database & DevTools</strong><br/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>DevOps Basics</strong><br/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="450" style="border: none;">
+      <h3 align="center">🛠 Infrastructure</h3>
+      <table align="center" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>Architecture & Pipeline</strong><br/>
+            <img src="https://img.shields.io/badge/MSA-555555?style=flat-square"/>
+            <img src="https://img.shields.io/badge/CI/CD_Pipeline-F25022?style=flat-square"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>Kubernetes Orchestration</strong><br/>
+            <img src="https://img.shields.io/badge/Pod-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Service-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Ingress-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="border: none;">
+            <strong>Stability & Monitoring</strong><br/>
+            <img src="https://img.shields.io/badge/Health_Checks-4CAF50?style=flat-square"/>
+            <img src="https://img.shields.io/badge/Auto--recovery-FF9800?style=flat-square"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-  <p>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  </p>
-<h3 align="center">🛠 Infrastructure & DevOps Experience</h3>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <strong>Architecture & Pipeline</strong><br/>
-        <img src="https://img.shields.io/badge/MSA-555555?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/CI/CD_Pipeline-F25022?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Kubernetes Orchestration</strong><br/>
-        <img src="https://img.shields.io/badge/Pod-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Service-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ingress-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Load_Balancing-0052CC?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Stability & Monitoring</strong><br/>
-        <img src="https://img.shields.io/badge/Health_Checks-4CAF50?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Auto--recovery-FF9800?style=flat-square"/>
-        <img src="https://img.shields.io/badge/External_Routing-795548?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
 <br>
   <h3>🏆 Projects</h3>
   <table align="center">
@@ -76,9 +91,9 @@
     <a href="https://solved.ac/jshpqpw">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jshpqpw" />
     </a>
-    <a href="https://programmers.co.kr/app/users/library">
-      <img src="https://img.shields.io/badge/Programmers-003866?style=flat-square&logo=programmers&logoColor=white"/>
-    </a>
+   <!-- <a href="https://programmers.co.kr/">
+    <img src="https://img.shields.io/badge/Programmers-003866?style=for-the-badge&logo=programmers&logoColor=white" height="150" />
+  </a> -->
   </p>
 
 </div>
