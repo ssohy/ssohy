@@ -8,10 +8,11 @@
       <h3 align="center">🛠 Tech Stacks</h3>
       <table align="center" style="border-collapse: collapse; border: none;">
         <tr>
-          <td align="center" style="border: none;">
+         <td align="center" style="border: none;">
             <strong>Language & Framework</strong><br/>
-            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+            <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> -->
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
           </td>
         </tr>
         <tr>
