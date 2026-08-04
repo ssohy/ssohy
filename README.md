@@ -1,12 +1,13 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=So%20Hyun&fontSize=70&fontAlign=75" />
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ssohy&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ssohy&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/ssohy"
   width="600"
   height="300"
 />
+</a>
 </a>
 <br><br>
 <table align="center" style="border-collapse: collapse; border: none;">
